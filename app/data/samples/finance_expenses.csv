@@ -1,0 +1,11 @@
+expense_id,employee_id,department,category,amount,expense_date,description,status,pre_approved
+EXP-201,EMP001,Sales,Client Dinner,120.0,2026-10-14,Dinner with Acme Corp prospective buyers,Approved,1
+EXP-202,EMP001,Sales,Domestic Flight,340.0,2026-10-20,Travel to Chicago for on-site sales demo,Approved,1
+EXP-203,EMP003,Finance,Software Subscription,450.0,2026-10-05,Annual Bloomberg terminal add-on license,Approved,1
+EXP-204,EMP007,Sales,Hotel Lodging,190.0,2026-10-18,One night stay at Marriott for client summit,Approved,1
+EXP-205,EMP002,HR,Team Offsite Lunch,280.0,2026-09-22,Quarterly HR team lunch (7 people),Approved,1
+EXP-206,EMP001,Sales,Client Dinner,210.0,2026-11-04,Dinner with VP of GlobalTech without pre-approval,Flagged,0
+EXP-207,EMP004,Sales,Business Class Upgrade,850.0,2026-11-08,Flight seat upgrade to Europe,Flagged,0
+EXP-208,EMP008,Finance,Office Electronics,650.0,2026-11-10,Noise-cancelling headphones purchased without IT ticket,Pending,0
+EXP-209,EMP010,Sales,Ride Sharing / Taxi,45.0,2026-11-12,Airport cab to hotel,Approved,1
+EXP-210,EMP007,Sales,Personal Meal Claim,95.0,2026-11-14,Solo room service dinner in hotel (exceeds $50 per-diem limit),Flagged,0

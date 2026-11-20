@@ -1,0 +1,19 @@
+employee_id,name,department,leave_type,total_entitled,used_days,remaining_days
+EMP001,Malav Patel,Sales,Paid Leave,18,6,12
+EMP001,Malav Patel,Sales,Casual Leave,12,7,5
+EMP001,Malav Patel,Sales,Sick Leave,10,2,8
+EMP002,Priya Iyer,HR,Paid Leave,18,14,4
+EMP002,Priya Iyer,HR,Casual Leave,12,11,1
+EMP002,Priya Iyer,HR,Sick Leave,10,3,7
+EMP003,Aarav Sharma,Finance,Paid Leave,18,9,9
+EMP003,Aarav Sharma,Finance,Casual Leave,12,4,8
+EMP003,Aarav Sharma,Finance,Sick Leave,10,1,9
+EMP004,Rohan Verma,Sales,Paid Leave,18,16,2
+EMP004,Rohan Verma,Sales,Casual Leave,12,10,2
+EMP004,Rohan Verma,Sales,Sick Leave,10,4,6
+EMP005,Sneha Rao,HR,Paid Leave,18,5,13
+EMP005,Sneha Rao,HR,Casual Leave,12,3,9
+EMP005,Sneha Rao,HR,Sick Leave,10,0,10
+EMP006,Vikram Malhotra,Finance,Paid Leave,18,12,6
+EMP006,Vikram Malhotra,Finance,Casual Leave,12,8,4
+EMP006,Vikram Malhotra,Finance,Sick Leave,10,5,5
